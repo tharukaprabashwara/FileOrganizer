@@ -24,3 +24,4 @@ When you run the script and give it a folder path, it automatically organizes fi
 * **Safe Handling**: Leaves existing folders untouched and only moves loose files.
 * **Case-Insensitive**: Works with both lowercase and uppercase file extensions (e.g., `.PNG` and `.png`).
 * **Real-time Output**: Shows you line-by-line in the console which file was moved and where it went.
+  
